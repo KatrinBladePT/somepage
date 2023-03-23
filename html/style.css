@@ -1,0 +1,50 @@
+.div2 {
+    color: green;
+    background-image: url(1451280950152569548.jpg);
+    max-width: 2000px;
+    height: 560px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-attachment: fixed;
+}
+.div1 {
+    color: rgb(58, 12, 50);
+    background-color: blueviolet;
+    width: 250px; 
+    height: 250px;
+
+    max-width: 1000px;
+    min-width: 100px;
+}
+.div3 {
+    width: 450px;
+    height: 450px;
+    border-left: 5px solid purple;
+    border-right: 5px double purple;
+    border-bottom: 5px dotted purple;
+    border-top: 5px dashed purple;
+    border-radius: 25px;
+
+    outline:firebrick dotted thick;
+}
+.div4 {
+    font-size: 36px;
+    letter-spacing: 3 px;
+    font-family: sans-serif;
+    font-weight: bold; 
+    font-style: italic;
+    direction: ltr;
+    line-height: 25px;
+    text-align: center;
+    text-decoration: underline;
+}
+.div5 {
+    text-transform: lowercase;
+    margin-top: 25px;
+    padding-bottom: 25px;
+}
+.img {
+    max-width: 100%;
+    height: auto;
+    border
+}
